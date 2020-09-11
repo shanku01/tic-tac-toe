@@ -10,4 +10,4 @@ The app consists of only one database which has three things
 2.Step
 3.Next Move
 So depending on next move, steps need to take to create history. 
-https://github.com/shanku01/tic-tac-toe/blob/master/tic-tac-toe.png
+<img src='https://github.com/shanku01/tic-tac-toe/blob/master/tic-tac-toe.png'/>
